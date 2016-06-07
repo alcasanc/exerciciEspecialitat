@@ -21,3 +21,4 @@ Adaptador de t£nel isatap.home:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS espec¡fico para la conexi¢n. . : home
+ma., 07 de jun. de 2016 14:21:15
